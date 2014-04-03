@@ -1,0 +1,9 @@
+# Logfile created on 2014-04-03 23:50:39 +0300 by logger.rb/31641
+I, [2014-04-03T23:50:39.815272 #1713]  INFO -- : 0:  daemons (1.1.9) from /Users/sidormih/.rvm/gems/ruby-1.9.3-p484/specifications/daemons-1.1.9.gemspec
+I, [2014-04-03T23:50:51.386526 #1713]  INFO -- : 0:  eventmachine (1.0.3) from /Users/sidormih/.rvm/gems/ruby-1.9.3-p484/specifications/eventmachine-1.0.3.gemspec
+I, [2014-04-03T23:50:51.387039 #1713]  INFO -- : 0:  rack (1.5.2) from /Users/sidormih/.rvm/gems/ruby-1.9.3-p484/specifications/rack-1.5.2.gemspec
+I, [2014-04-03T23:50:52.565503 #1713]  INFO -- : 0:  rack-protection (1.5.2) from /Users/sidormih/.rvm/gems/ruby-1.9.3-p484/specifications/rack-protection-1.5.2.gemspec
+I, [2014-04-03T23:50:52.565901 #1713]  INFO -- : 0:  tilt (1.4.1) from /Users/sidormih/.rvm/gems/ruby-1.9.3-p484/specifications/tilt-1.4.1.gemspec
+I, [2014-04-03T23:50:54.351603 #1713]  INFO -- : 0:  sinatra (1.4.4) from /Users/sidormih/.rvm/gems/ruby-1.9.3-p484/specifications/sinatra-1.4.4.gemspec
+I, [2014-04-03T23:50:56.203705 #1713]  INFO -- : 0:  thin (1.6.1) from /Users/sidormih/.rvm/gems/ruby-1.9.3-p484/specifications/thin-1.6.1.gemspec
+I, [2014-04-03T23:50:56.204271 #1713]  INFO -- : 0:  bundler (1.5.1) from /Users/sidormih/.rvm/gems/ruby-1.9.3-p484@global/specifications/bundler-1.5.1.gemspec
